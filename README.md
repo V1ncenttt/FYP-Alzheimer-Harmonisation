@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
 <h3 align="center">Empirical comparison of neuro-imaging dataset harmonisation for Alzheimer's disease prediciton</h3>
 
 <div align="center">
@@ -16,9 +11,13 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">This project aims to improve the diagnosis of Alzheimer's disease (AD) and the prediction of Mild Cognitive Impairment (MCI) to AD conversion by comparing the efficiency of four post-hoc harmonisation techniques on a cohort of 1358 participants. We use neuroimaging data from the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset, and build two classifiers using cortical thickness data.
     <br> 
 </p>
+
+
+## Abstract
+
 
 ## 📝 Table of Contents
 
