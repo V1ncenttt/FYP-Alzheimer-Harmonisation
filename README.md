@@ -45,3 +45,17 @@ This code can be used by other researchers to build their own framework to compa
 - [@V1ncenttt](https://github.com/kylelobo) - Idea & Initial work
 - [Dr. James Cole](https://iris.ucl.ac.uk/iris/browse/profile?upi=JCOLE07) - Project Supervisor
 
+## Harmonisation packages
+
+| Language | Name         | Link                                             | Year |
+|----------|--------------|--------------------------------------------------|------|
+| Python   | NeuroComBat  | https://github.com/Jfortin1/neuroCombat          | 2020 |
+| Python   | CovBat       | https://github.com/andy1764/CovBat_Harmonization | 2018 |
+| Python   | ComBat-Gam   | https://github.com/rpomponio/neuroHarmonize      | 2021 |
+| Python   | NeuroHarmony | https://github.com/garciadias/Neuroharmony       | 2020 |
+| R        | ComBatFamily | https://github.com/andy1764/ComBatFamily         | 2023 |
+
+## Citations
+
+For the citations, see the project paper.
+
