@@ -24,8 +24,8 @@ class DKDict:
         return self.regions[adni_name]
 
     def toAdniName(self, dk_name):
-        return self.ani[dk_name]
+        return self.adni[dk_name]
     
 
 dkDict = DKDict()
-print(dkDict.toDKName("ST102TA"))
+print(dkDict.toDKName("ST50TA"))
