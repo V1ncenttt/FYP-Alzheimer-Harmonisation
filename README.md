@@ -34,7 +34,7 @@ To get started, simply run the notebooks.
 
 ### Installing
 
-This project requires multiple python packages to run: sklearn, numpy, pandas, and the harmonisation packages.
+This project requires multiple python packages to run: sklearn, numpy, pandas, and the harmonisation packages. You will also need to get approval from ADNI (https://adni.loni.usc.edu/) to get access to their datasets. Put all of the .csv files inside a new folder called \data inside the \main folder
 
 
 ## 🎈 Usage <a name="usage"></a>
