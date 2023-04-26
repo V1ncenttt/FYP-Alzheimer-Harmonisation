@@ -27,7 +27,10 @@ Our findings show that post-hoc harmonisation is a valuable method to increase t
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 To get started, simply run the notebooks.
-
+- Classifiers_explo.ipynb : Exploration of the dataset, building of test classifiers (!DRAFT)
+- Classifiers.ipynb : Building of draft classifiers only using demographic and genetic data (DRAFT!)
+- Harmo_Compare.impnb : MAIN PROJECT FILE: Comparison of the main harmonisation methods
+- Exploration.ipynb : Data exploration (!DRAFT)
 
 ### Installing
 
